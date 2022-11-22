@@ -583,6 +583,9 @@ ul.footer-bottom li:nth-child(1) span {
 /* BELOW 944px (Tablets) */
 /*****************************/
 @media (max-width: 59em) {
+  .form-detail {
+    width: 90%;
+  }
   .form-detail form {
     /* background-color: red; */
     display: block;
